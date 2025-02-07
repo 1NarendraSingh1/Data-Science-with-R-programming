@@ -7,7 +7,35 @@ Overview
 
 This repository provides a comprehensive guide to data visualization and manipulation in R, utilizing powerful libraries such as dplyr, tidyr, ggplot2, and plotly. It covers essential techniques for handling and visualizing data efficiently.
 
-Key Sections
+**Key Sections**
+
+**Data Visualization Keywords:**
+- ggplot2
+- plotly
+- plot(), hist(), boxplot()
+- geom_bar(), geom_point(), geom_boxplot()
+- aes(), facet_wrap(), coord_flip()
+- scatter plot, bar chart, histogram, box plot, pie chart, heatmap, word cloud
+  
+**Data Manipulation (DPLYR) Keywords:**
+- dplyr
+- filter(), select(), mutate(), arrange(), summarise()
+- group_by(), rename(), distinct(), count()
+- left_join(), right_join(), inner_join(), full_join()
+- %>% (Pipe Operator)
+  
+**Data Reshaping (TIDYR) Keywords:**
+- tidyr
+- gather(), spread()
+- separate(), unite()
+  
+**General R Functions and Libraries:**
+- install.packages(), library()
+- View(), head(), tail()
+- sample_n(), sample_frac()
+- dataset: flights, mtcars, airquality, mpg
+- Base R, grid graphics, MASS
+- data transformation, data visualization, tidy data, data wrangling
 
 📊 **Charts and Graphs**
 
