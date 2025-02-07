@@ -27,6 +27,16 @@ Demonstrates various visualization techniques, including:
 
 - Word clouds
 
+![image](https://github.com/user-attachments/assets/eb5a6006-e651-4159-8861-9821bc0f1561)
+
+![image](https://github.com/user-attachments/assets/530ca3cf-bc4e-4ae2-80d8-5e098c473154)
+
+![image](https://github.com/user-attachments/assets/f9e1fc36-088a-4e95-aa7b-a1f3605c9999)
+
+![image](https://github.com/user-attachments/assets/572ccfbb-a809-4feb-9f73-ffaad5226923)
+
+![image](https://github.com/user-attachments/assets/2cfa2693-bcea-46b4-8a4a-3ff928688c45)
+
 🛠 **DPLYR for Data Manipulation**
 
 Learn how to efficiently manipulate datasets with functions like:
@@ -81,12 +91,3 @@ Ensure you have R installed and then install the required libraries:
 
 install.packages(c("dplyr", "tidyr", "ggplot2", "plotly", "nycflights13", "MASS", "grid", "plotrix"))
 
-🚀 Getting Started
-
-Clone this repository:
-
-git clone https://github.com/your-username/repository-name.git
-
-Open the R script r_data_viz_script.R.
-
-Run the script in RStudio or your preferred R environment.
